@@ -1,0 +1,7 @@
+name: Exposed Filter Block for Block Views
+type: module
+description: Embed Exposed Filter for Block views as a block.
+core: 8.x
+package: Custom
+dependencies:
+  - views

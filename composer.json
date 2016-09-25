@@ -1,0 +1,14 @@
+{
+  "name": "drupal/exposed_filter_block_for_block_v",
+  "type": "drupal-module",
+  "description": "Embed Exposed Filter for Block views as a block.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/exposed_filter_block_for_block_v",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/exposed_filter_block_for_block_v",
+    "source": "http://cgit.drupalcode.org/exposed_filter_block_for_block_v"
+  },
+  "require": { }
+}
